@@ -1,0 +1,1 @@
+Sitemap: https://jansim.github.io/r-color-palettes/sitemap.xml
