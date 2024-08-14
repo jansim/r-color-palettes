@@ -48,6 +48,12 @@ c("#C09050FF", "#605028FF", "#A07830FF", "#E0B070FF", "#C0B070FF", "#E8E0C0FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#C09050FF", "#605028FF", "#A07830FF", "#E0B070FF", "#C0B070FF", "#E8E0C0FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/krabby/"> <img src="../../palettetown/krabby/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/graveler/"> <img src="../../palettetown/graveler/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../beyonce/X23/"> <img src="../../beyonce/X23/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

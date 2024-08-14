@@ -48,6 +48,12 @@ c("#F8D0A8FF", "#F8B088FF", "#903010FF", "#E06850FF", "#F8E8C0FF", "#F8F8F8FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -73,8 +79,8 @@ c("#F8D0A8FF", "#F8B088FF", "#903010FF", "#E06850FF", "#F8E8C0FF", "#F8F8F8FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/kingler/"> <img src="../../palettetown/kingler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../beyonce/X28/"> <img src="../../beyonce/X28/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/mankey/"> <img src="../../palettetown/mankey/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../beyonce/X28/"> <img src="../../beyonce/X28/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

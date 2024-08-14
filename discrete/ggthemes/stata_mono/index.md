@@ -48,6 +48,12 @@ c("#606060FF", "#A0A0A0FF", "#808080FF", "#404040FF", "#000000FF", "#E0E0E0FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -67,14 +73,14 @@ c("#606060FF", "#A0A0A0FF", "#808080FF", "#404040FF", "#000000FF", "#E0E0E0FF", 
 </figure> <figure class="figure">
 <a href="../../trekcolors/borg/"> <img src="../../trekcolors/borg/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../ggthemr/greyscale/"> <img src="../../ggthemr/greyscale/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../miscpalettes/grayscale/"> <img src="../../miscpalettes/grayscale/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/grey_material/"> <img src="../../ggsci/grey_material/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/greyscale/"> <img src="../../ggthemr/greyscale/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/castform/"> <img src="../../palettetown/castform/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/castform/"> <img src="../../palettetown/castform/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

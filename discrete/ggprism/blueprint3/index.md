@@ -48,6 +48,12 @@ c("#FFFFFFFF", "#FFFFFFFF", "#FFFFFFFF", "#366699FF", "#366699FF", "#366699FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -65,8 +71,6 @@ c("#FFFFFFFF", "#FFFFFFFF", "#FFFFFFFF", "#366699FF", "#366699FF", "#366699FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/wailord/"> <img src="../../palettetown/wailord/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/altaria/"> <img src="../../palettetown/altaria/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/barboach/"> <img src="../../palettetown/barboach/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -76,5 +80,7 @@ c("#FFFFFFFF", "#FFFFFFFF", "#FFFFFFFF", "#366699FF", "#366699FF", "#366699FF", 
 <a href="../../palettetown/lairon/"> <img src="../../palettetown/lairon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/Dark/"> <img src="../../tvthemes/Dark/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

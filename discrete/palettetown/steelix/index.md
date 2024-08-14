@@ -48,6 +48,12 @@ c("#8098A8FF", "#485878FF", "#B8C8C0FF", "#D8E0D8FF", "#383850FF", "#F8F8F8FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -67,6 +73,8 @@ c("#8098A8FF", "#485878FF", "#B8C8C0FF", "#D8E0D8FF", "#383850FF", "#F8F8F8FF", 
 </figure> <figure class="figure">
 <a href="../../beyonce/X126/"> <img src="../../beyonce/X126/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
 <a href="../../palettetown/aerodactyl/"> <img src="../../palettetown/aerodactyl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/tangela/"> <img src="../../palettetown/tangela/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -74,7 +82,5 @@ c("#8098A8FF", "#485878FF", "#B8C8C0FF", "#D8E0D8FF", "#383850FF", "#F8F8F8FF", 
 <a href="../../palettetown/pupitar/"> <img src="../../palettetown/pupitar/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../DresdenColor/whitenight/"> <img src="../../DresdenColor/whitenight/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../palettetown/venomoth/"> <img src="../../palettetown/venomoth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

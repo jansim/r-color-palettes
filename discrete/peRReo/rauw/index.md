@@ -48,6 +48,12 @@ c("#E02331FF", "#350275FF", "#15BBF3FF", "#ED852FFF", "#75E1F6FF", "#8D2063FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -65,9 +71,9 @@ c("#E02331FF", "#350275FF", "#15BBF3FF", "#ED852FFF", "#75E1F6FF", "#8D2063FF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/planetexpress_futurama/"> <img src="../../ggsci/planetexpress_futurama/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../vapoRwave/hotlineBling/"> <img src="../../vapoRwave/hotlineBling/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggsci/lanonc_lancet/"> <img src="../../ggsci/lanonc_lancet/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../vapoRwave/hotlineBling/"> <img src="../../vapoRwave/hotlineBling/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nbapalettes/suns/"> <img src="../../nbapalettes/suns/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

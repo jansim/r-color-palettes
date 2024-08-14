@@ -48,6 +48,12 @@ c("#707088FF", "#484860FF", "#9090A8FF", "#000000FF", "#B8B8C8FF", "#804028FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -67,9 +73,9 @@ c("#707088FF", "#484860FF", "#9090A8FF", "#000000FF", "#B8B8C8FF", "#804028FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/lileep/"> <img src="../../palettetown/lileep/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/blaziken/"> <img src="../../palettetown/blaziken/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/ampharos/"> <img src="../../palettetown/ampharos/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/blaziken/"> <img src="../../palettetown/blaziken/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/ninjask/"> <img src="../../palettetown/ninjask/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

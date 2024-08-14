@@ -48,6 +48,12 @@ c("#B88850FF", "#906848FF", "#706830FF", "#E8D8A8FF", "#584020FF", "#B8A878FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -63,9 +69,9 @@ c("#B88850FF", "#906848FF", "#706830FF", "#E8D8A8FF", "#584020FF", "#B8A878FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/pinsir/"> <img src="../../palettetown/pinsir/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/kabutops/"> <img src="../../palettetown/kabutops/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/kakuna/"> <img src="../../palettetown/kakuna/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/kabutops/"> <img src="../../palettetown/kabutops/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/MtMckinley/"> <img src="../../nationalparkcolors/MtMckinley/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

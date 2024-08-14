@@ -48,6 +48,12 @@ c("#785D37FF", "#62BBA5FF", "#FFB84DFF", "#AAA488FF", "#B2432FFF", "#3A6589FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -69,9 +75,9 @@ c("#785D37FF", "#62BBA5FF", "#FFB84DFF", "#AAA488FF", "#B2432FFF", "#3A6589FF", 
 </figure> <figure class="figure">
 <a href="../../miscpalettes/dreaming/"> <img src="../../miscpalettes/dreaming/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Redmonder/qMSOAsp/"> <img src="../../Redmonder/qMSOAsp/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../MetBrewer/Redon/"> <img src="../../MetBrewer/Redon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../Redmonder/qMSOAsp/"> <img src="../../Redmonder/qMSOAsp/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/default_jama/"> <img src="../../ggsci/default_jama/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

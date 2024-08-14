@@ -48,6 +48,12 @@ c("#00B5E4FF", "#649D72FF", "#F1E436FF", "#F3E338FF", "#C25337FF", "#E80F18FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#00B5E4FF", "#649D72FF", "#F1E436FF", "#F3E338FF", "#C25337FF", "#E80F18FF", 
 </figure> <figure class="figure">
 <a href="../../Redmonder/qMSOYl/"> <img src="../../Redmonder/qMSOYl/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../Redmonder/qMSORdOr/"> <img src="../../Redmonder/qMSORdOr/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/slowking/"> <img src="../../palettetown/slowking/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

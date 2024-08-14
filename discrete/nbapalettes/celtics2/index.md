@@ -48,6 +48,12 @@ c("#007A33FF", "#BA9653FF", "#963821FF", "#E59E6DFF", "#000000FF")
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -73,8 +79,8 @@ c("#007A33FF", "#BA9653FF", "#963821FF", "#E59E6DFF", "#000000FF")
 </figure> <figure class="figure">
 <a href="../../ggsci/default_uchicago/"> <img src="../../ggsci/default_uchicago/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../DresdenColor/smallfavor/"> <img src="../../DresdenColor/smallfavor/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../nbapalettes/hawks/"> <img src="../../nbapalettes/hawks/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../DresdenColor/smallfavor/"> <img src="../../DresdenColor/smallfavor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

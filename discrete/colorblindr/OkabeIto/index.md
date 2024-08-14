@@ -48,6 +48,12 @@ c("#E69F00FF", "#56B4E9FF", "#009E73FF", "#F0E442FF", "#0072B2FF", "#D55E00FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -71,9 +77,9 @@ c("#E69F00FF", "#56B4E9FF", "#009E73FF", "#F0E442FF", "#0072B2FF", "#D55E00FF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/uniform_startrek/"> <img src="../../ggsci/uniform_startrek/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ltc/crbhits/"> <img src="../../ltc/crbhits/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../basetheme/brutal/"> <img src="../../basetheme/brutal/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ltc/crbhits/"> <img src="../../ltc/crbhits/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../Redmonder/qPBI/"> <img src="../../Redmonder/qPBI/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

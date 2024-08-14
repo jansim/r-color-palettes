@@ -48,6 +48,12 @@ c("#C86925FF", "#FDF56CFF", "#FC9576FF", "#5D57AFFF", "#B2CE31FF", "#FF2027FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -61,11 +67,11 @@ c("#C86925FF", "#FDF56CFF", "#FC9576FF", "#5D57AFFF", "#B2CE31FF", "#FF2027FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/skitty/"> <img src="../../palettetown/skitty/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/simpsons/"> <img src="../../tvthemes/simpsons/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../colorblindr/OkabeIto_black/"> <img src="../../colorblindr/OkabeIto_black/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../khroma/okabeitoblack/"> <img src="../../khroma/okabeitoblack/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/simpsons/"> <img src="../../tvthemes/simpsons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/cyndaquil/"> <img src="../../palettetown/cyndaquil/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

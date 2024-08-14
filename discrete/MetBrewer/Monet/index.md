@@ -48,6 +48,12 @@ c("#4E6D58FF", "#749E89FF", "#ABCCBEFF", "#E3CACFFF", "#C399A2FF", "#9F6E71FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#4E6D58FF", "#749E89FF", "#ABCCBEFF", "#E3CACFFF", "#C399A2FF", "#9F6E71FF", 
 </figure> <figure class="figure">
 <a href="../../vangogh/Landscape/"> <img src="../../vangogh/Landscape/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../nord/baie_mouton/"> <img src="../../nord/baie_mouton/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

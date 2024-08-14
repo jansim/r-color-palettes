@@ -48,6 +48,12 @@ c("#3E4331FF", "#AD6B17FF", "#66743BFF", "#D0C471FF", "#CCB62FFF", "#BAC4C2FF")
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#3E4331FF", "#AD6B17FF", "#66743BFF", "#D0C471FF", "#CCB62FFF", "#BAC4C2FF")
 </figure> <figure class="figure">
 <a href="../../Manu/Kakapo/"> <img src="../../Manu/Kakapo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../impressionist.colors/melon_et_peches/"> <img src="../../impressionist.colors/melon_et_peches/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/graveler/"> <img src="../../palettetown/graveler/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

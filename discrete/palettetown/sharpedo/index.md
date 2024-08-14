@@ -48,6 +48,12 @@ c("#408890FF", "#D8C8F0FF", "#406078FF", "#384048FF", "#90B8B8FF", "#000000FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#408890FF", "#D8C8F0FF", "#406078FF", "#384048FF", "#90B8B8FF", "#000000FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/minun/"> <img src="../../palettetown/minun/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/gyarados/"> <img src="../../palettetown/gyarados/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../palettetown/miltank/"> <img src="../../palettetown/miltank/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

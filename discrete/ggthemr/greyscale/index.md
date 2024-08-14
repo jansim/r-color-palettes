@@ -48,6 +48,12 @@ c("#000000FF", "#515151FF", "#909090FF", "#D0D0D0FF", "#444444FF", "#111111FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -61,11 +67,11 @@ c("#000000FF", "#515151FF", "#909090FF", "#D0D0D0FF", "#444444FF", "#111111FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Greys/"> <img src="../../RColorBrewer/Greys/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggthemes/stata_mono/"> <img src="../../ggthemes/stata_mono/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/silcoon/"> <img src="../../palettetown/silcoon/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../lisa/MarkRothko_1/"> <img src="../../lisa/MarkRothko_1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

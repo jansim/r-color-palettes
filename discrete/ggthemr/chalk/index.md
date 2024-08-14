@@ -48,6 +48,12 @@ c("#FFFFFFFF", "#C2C5BEFF", "#D4DADAFF", "#111111FF", "#6D8875FF", "#EAEAEAFF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -73,8 +79,8 @@ c("#FFFFFFFF", "#C2C5BEFF", "#D4DADAFF", "#111111FF", "#6D8875FF", "#EAEAEAFF", 
 </figure> <figure class="figure">
 <a href="../../calecopal/coastaldune1/"> <img src="../../calecopal/coastaldune1/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tayloRswift/reputation/"> <img src="../../tayloRswift/reputation/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ochRe/winmar/"> <img src="../../ochRe/winmar/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/unown/"> <img src="../../palettetown/unown/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

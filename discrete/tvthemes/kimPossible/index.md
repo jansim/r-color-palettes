@@ -48,6 +48,12 @@ c("#FF8C00FF", "#024663FF", "#70D423FF", "#891604FF", "#02001FFF", "#9CF6F7FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -71,9 +77,9 @@ c("#FF8C00FF", "#024663FF", "#70D423FF", "#891604FF", "#02001FFF", "#9CF6F7FF", 
 </figure> <figure class="figure">
 <a href="../../tvthemes/gravityFalls/"> <img src="../../tvthemes/gravityFalls/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../werpals/benagil/"> <img src="../../werpals/benagil/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tvthemes/Regular/"> <img src="../../tvthemes/Regular/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../werpals/benagil/"> <img src="../../werpals/benagil/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ggsci/aussie_flatui/"> <img src="../../ggsci/aussie_flatui/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

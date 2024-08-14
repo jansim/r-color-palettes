@@ -48,6 +48,12 @@ c("#0B8EF8FF", "#B5D6F5FF", "#681A15FF", "#043CB2FF", "#DC5750FF")
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -71,9 +77,9 @@ c("#0B8EF8FF", "#B5D6F5FF", "#681A15FF", "#043CB2FF", "#DC5750FF")
 </figure> <figure class="figure">
 <a href="../../ggthemr/solarized/"> <img src="../../ggthemr/solarized/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggprism/prism_dark2/"> <img src="../../ggprism/prism_dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../ggprism/prism_light/"> <img src="../../ggprism/prism_light/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggprism/prism_dark2/"> <img src="../../ggprism/prism_dark2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../MoMAColors/Palermo/"> <img src="../../MoMAColors/Palermo/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

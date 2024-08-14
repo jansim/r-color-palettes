@@ -48,6 +48,12 @@ c("#68B8D8FF", "#4898B8FF", "#284850FF", "#98D0E8FF", "#000000FF", "#3878A0FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#68B8D8FF", "#4898B8FF", "#284850FF", "#98D0E8FF", "#000000FF", "#3878A0FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/mightyena/"> <img src="../../palettetown/mightyena/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../impressionist.colors/pres_du_lac/"> <img src="../../impressionist.colors/pres_du_lac/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../tvthemes/Bismuth/"> <img src="../../tvthemes/Bismuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

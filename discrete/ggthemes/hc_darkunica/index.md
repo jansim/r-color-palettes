@@ -48,6 +48,12 @@ c("#2B908FFF", "#90EE7EFF", "#F45B5BFF", "#7798BFFF", "#AAEEEEFF", "#FF0066FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -61,9 +67,9 @@ c("#2B908FFF", "#90EE7EFF", "#F45B5BFF", "#7798BFFF", "#AAEEEEFF", "#FF0066FF", 
 </figure> <figure class="figure">
 <a href="../../ggthemes/hc_default/"> <img src="../../ggthemes/hc_default/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../basetheme/clean/"> <img src="../../basetheme/clean/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../basetheme/minimal/"> <img src="../../basetheme/minimal/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../basetheme/clean/"> <img src="../../basetheme/clean/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../basetheme/void/"> <img src="../../basetheme/void/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

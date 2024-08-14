@@ -48,6 +48,12 @@ c("#F63B32FF", "#E37870FF", "#F3FF41FF", "#005487FF", "#52BCD4FF", "#679C40FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -59,9 +65,9 @@ c("#F63B32FF", "#E37870FF", "#F3FF41FF", "#005487FF", "#52BCD4FF", "#679C40FF", 
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../ggthemr/sea/"> <img src="../../ggthemr/sea/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../tvthemes/Regular/"> <img src="../../tvthemes/Regular/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../ggthemr/sea/"> <img src="../../ggthemr/sea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../tvthemes/spongeBob/"> <img src="../../tvthemes/spongeBob/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

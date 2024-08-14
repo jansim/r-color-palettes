@@ -48,6 +48,12 @@ c("#C8B8B8FF", "#E0D8D8FF", "#F8F8F8FF", "#585050FF", "#181818FF", "#F0F0E8FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -65,8 +71,6 @@ c("#C8B8B8FF", "#E0D8D8FF", "#F8F8F8FF", "#585050FF", "#181818FF", "#F0F0E8FF", 
 </figure> <figure class="figure">
 <a href="../../RColorBrewer/Greys/"> <img src="../../RColorBrewer/Greys/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/poliwrath/"> <img src="../../palettetown/poliwrath/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/aron/"> <img src="../../palettetown/aron/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/linoone/"> <img src="../../palettetown/linoone/featured.svg" style="width: 100%;" class="figure-img"></a>
@@ -76,5 +80,7 @@ c("#C8B8B8FF", "#E0D8D8FF", "#F8F8F8FF", "#585050FF", "#181818FF", "#F0F0E8FF", 
 <a href="../../palettetown/lairon/"> <img src="../../palettetown/lairon/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/aggron/"> <img src="../../palettetown/aggron/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../dutchmasters/little_street/"> <img src="../../dutchmasters/little_street/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

@@ -48,6 +48,12 @@ c("#C0AED9FF", "#3C3B6CFF", "#AE56DEFF", "#94A4ACFF", "#8C37E5FF", "#000000FF")
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -60,8 +66,6 @@ c("#C0AED9FF", "#3C3B6CFF", "#AE56DEFF", "#94A4ACFF", "#8C37E5FF", "#000000FF")
 <a href="../../ButterflyColors/hamadryas_feronia/"> <img src="../../ButterflyColors/hamadryas_feronia/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/wailord/"> <img src="../../palettetown/wailord/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
-<a href="../../nbapalettes/magic_city2/"> <img src="../../nbapalettes/magic_city2/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/quagsire/"> <img src="../../palettetown/quagsire/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -76,5 +80,7 @@ c("#C0AED9FF", "#3C3B6CFF", "#AE56DEFF", "#94A4ACFF", "#8C37E5FF", "#000000FF")
 <a href="../../tvthemes/Flourite/"> <img src="../../tvthemes/Flourite/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../feathers/cassowary/"> <img src="../../feathers/cassowary/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Garnet/"> <img src="../../tvthemes/Garnet/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

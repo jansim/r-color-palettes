@@ -48,6 +48,12 @@ c("#C8E860FF", "#98C008FF", "#60A848FF", "#487000FF", "#388028FF", "#005800FF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -61,9 +67,9 @@ c("#C8E860FF", "#98C008FF", "#60A848FF", "#487000FF", "#388028FF", "#005800FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/bellossom/"> <img src="../../palettetown/bellossom/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/cacnea/"> <img src="../../palettetown/cacnea/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/bayleef/"> <img src="../../palettetown/bayleef/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/cacnea/"> <img src="../../palettetown/cacnea/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/gulpin/"> <img src="../../palettetown/gulpin/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
@@ -71,9 +77,9 @@ c("#C8E860FF", "#98C008FF", "#60A848FF", "#487000FF", "#388028FF", "#005800FF", 
 </figure> <figure class="figure">
 <a href="../../palettetown/venusaur/"> <img src="../../palettetown/venusaur/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../palettetown/numel/"> <img src="../../palettetown/numel/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/meganium/"> <img src="../../palettetown/meganium/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../palettetown/numel/"> <img src="../../palettetown/numel/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../palettetown/smeargle/"> <img src="../../palettetown/smeargle/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 

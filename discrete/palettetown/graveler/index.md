@@ -48,6 +48,12 @@ c("#788030FF", "#A8B060FF", "#504810FF", "#C8D080FF", "#F8F8F8FF", "#C8C8C8FF")
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes

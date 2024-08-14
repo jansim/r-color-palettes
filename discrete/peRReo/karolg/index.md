@@ -48,6 +48,12 @@ c("#18B587FF", "#99CCD9FF", "#FF0069FF", "#202B2AFF", "#2AC0E7FF", "#24576FFF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -67,9 +73,9 @@ c("#18B587FF", "#99CCD9FF", "#FF0069FF", "#202B2AFF", "#2AC0E7FF", "#24576FFF", 
 </figure> <figure class="figure">
 <a href="../../nationalparkcolors/GeneralGrant/"> <img src="../../nationalparkcolors/GeneralGrant/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../tvthemes/Bismuth/"> <img src="../../tvthemes/Bismuth/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../unikn/pal_unikn_pref/"> <img src="../../unikn/pal_unikn_pref/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../tvthemes/Bismuth/"> <img src="../../tvthemes/Bismuth/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../peRReo/planb/"> <img src="../../peRReo/planb/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">

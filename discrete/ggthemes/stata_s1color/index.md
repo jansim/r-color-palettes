@@ -48,6 +48,12 @@ c("#006000FF", "#FF4500FF", "#1A476FFF", "#90353BFF", "#6E8E84FF", "#A0522DFF", 
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -75,6 +81,6 @@ c("#006000FF", "#FF4500FF", "#1A476FFF", "#90353BFF", "#6E8E84FF", "#A0522DFF", 
 </figure> <figure class="figure">
 <a href="../../ggsci/springfield_simpsons/"> <img src="../../ggsci/springfield_simpsons/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../basetheme/clean/"> <img src="../../basetheme/clean/featured.svg" style="width: 100%;" class="figure-img"></a>
+<a href="../../basetheme/minimal/"> <img src="../../basetheme/minimal/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
 </div>

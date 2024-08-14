@@ -48,6 +48,12 @@ c("#D3E3CAFF", "#BED6B3FF", "#92A587FF", "#4A5438FF", "#2F3525FF")
 
 ![](examples.png) 
 
+  <br>
+  
+  ## With Different Forms of Colorblindness
+  
+  ![](colorblind.svg) 
+
 <br>
 
 # Related Palettes
@@ -71,9 +77,9 @@ c("#D3E3CAFF", "#BED6B3FF", "#92A587FF", "#4A5438FF", "#2F3525FF")
 </figure> <figure class="figure">
 <a href="../../yarrr/bugs/"> <img src="../../yarrr/bugs/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
-<a href="../../lisa/JohnQuidor/"> <img src="../../lisa/JohnQuidor/featured.svg" style="width: 100%;" class="figure-img"></a>
-</figure> <figure class="figure">
 <a href="../../palettetown/geodude/"> <img src="../../palettetown/geodude/featured.svg" style="width: 100%;" class="figure-img"></a>
+</figure> <figure class="figure">
+<a href="../../lisa/JohnQuidor/"> <img src="../../lisa/JohnQuidor/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> <figure class="figure">
 <a href="../../ButterflyColors/dynamine_postverta/"> <img src="../../ButterflyColors/dynamine_postverta/featured.svg" style="width: 100%;" class="figure-img"></a>
 </figure> 
