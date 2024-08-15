@@ -46,13 +46,11 @@ Use raw:
 c("#FB771DFF", "#FEFB0FFF", "#8BEB83FF", "#04C4F8FF", "#1914CEFF")
 ``` 
 
-![](examples.png) 
+![](examples.png) <br>
 
-  <br>
-  
-  ## With Different Forms of Colorblindness
-  
-  ![](colorblind.svg) 
+## With Different Forms of Colorblindness
+
+![](colorblind.svg) 
 
 <br>
 
